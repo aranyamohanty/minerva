@@ -41,7 +41,7 @@ Minerva sits orthogonal to both **AI models** (OpenAI, Anthropic, Gemini, local 
                   │          └───────────┬──────────┘             │
                   │                      ▼                        │
                   │     ┌───────────────────────────────────┐     │
-                  │     │      MINERVA LOCAL SERVICE      │     │
+                  │     │      MINERVA LOCAL SERVICE        │     │
                   │     │        - Hybrid Memory (SQLite)   │     │
                   │     │        - Local ONNX Embeddings    │     │
                   │     │        - SQLite FTS5 BM25 Engine  │     │
