@@ -1,0 +1,8 @@
+{
+  "name": "Minerva",
+  "description": "Minerva is an AI memory and context orchestration engine. It optimizes LLM context windows by retrieving, ranking, compressing, and compiling project knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
